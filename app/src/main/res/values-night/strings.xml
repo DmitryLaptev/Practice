@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistantText">TextView</string>
+    <string name="nameTextView">Assistant</string>
+    <string name="messageDateView">TextView</string>
+    <string name="nameTextViewUser">Me</string>
+    <string name="todo">TODO</string>
+    <string name="messageTextViewUser">TextView</string>
+    <string name="messageDateViewUser">TextView</string>
+    <string name="night_settings">Ночная тема</string>
+</resources>

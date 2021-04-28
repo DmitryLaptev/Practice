@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="sendButton">Button</string>
+    <string name="questionText">TextView</string>
+    <string name="assistantText">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="nameTextView">Assistant</string>
+    <string name="messageDateView">TextView</string>
+    <string name="nameTextViewUser">Me</string>
+    <string name="messageTextViewUser">TextView</string>
+    <string name="messageDateViewUser">TextView</string>
+    <string name="day_settings">Дневная тема</string>
+    <string name="night_settings">Ночная тема</string>
+</resources>
